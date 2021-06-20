@@ -1,5 +1,5 @@
 {
-  "name": "ionic5-svelte-sidemenu-template",
+  "name": "ionic5-svelte-sidemenu-starter",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

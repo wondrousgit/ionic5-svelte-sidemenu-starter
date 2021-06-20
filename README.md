@@ -1,8 +1,14 @@
 # IONIC5 Svelte Sidemenu Template
 
+ionic https://ionicframework.com/
+
+Svelte https://svelte.dev/
+
 This template should help get you quick started developing a sidemenu IONIC5 app using Svelte.
 
 这个模板应该将会帮助你快速搭建IONIC5开发环境，使用Svelte来开发一个SideMenu应用
+
+
 
 
 **What packages were used in the template and why?**

@@ -1,0 +1,30 @@
+{
+  "name": "ionic5-svelte-sidemenu-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "platform": "vite build && npx cap add",
+    "buildapk": "vite build && npx cap sync && npx cap open android"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "@tsconfig/svelte": "^2.0.1",
+    "svelte": "^3.38.2",
+    "svelte-check": "^2.1.0",
+    "svelte-preprocess": "^4.7.3",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.4",
+    "vite": "^2.3.7"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.0.1",
+    "@capacitor/cli": "^3.0.1",
+    "@capacitor/core": "^3.0.1",
+    "@ionic/core": "^5.6.9",
+    "ionicons": "^5.5.2",
+    "svelte-spa-router": "^3.2.0"
+  }
+}
